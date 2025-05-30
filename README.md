@@ -1,6 +1,6 @@
-# Integrantes
-# Xilena Piedrahita Velasquez
-# Cristina Casas Galvis
+## Integrantes
+Xilena Piedrahita Velasquez
+Cristina Casas Galvis
 
 
 
